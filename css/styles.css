@@ -1,10 +1,19 @@
+* {
+    --primary-colour: rgb(162, 236, 182);
+    --background-colour: rgb(0, 71, 0);
+}
+
 body {
     background-color: rgb(162, 236, 182);
     text-align: center;
     color: rgb(0, 71, 0);
 }
 
+h1 {
+    font-size: 1.7rem;
+}
+
 p {
-    font-size: 20px;
+    font-size: 1rem;
     font-family: Arial, Helvetica, sans-serif;
 }
